@@ -1,0 +1,8 @@
+Neste desafio, foi apresentado como criar agentes utilizando o Microsoft Copilot.
+Foram demonstradas três formas principais de criação:
+
+Modelos prontos: Utilização de templates já existentes. O exemplo utilizado foi um agente voltado para responder dúvidas relacionadas a viagens.
+
+IA com prompt personalizado: Criação de um agente com base em instruções (prompt) customizadas, também com foco em temas de viagem.
+
+Copilot em branco: Criação de um agente do zero, sem modelos ou prompts pré-definidos, com do liberdade total de configuração e personalização.
