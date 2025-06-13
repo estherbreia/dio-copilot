@@ -1,0 +1,32 @@
+
+Criando um Agente no Copilot Studio
+
+1. Criando um Copilot em Branco
+
+Foi criado um agente a partir de um modelo em branco, com o objetivo de buscar e retornar conteúdos da documentação da Microsoft, especialmente do Microsoft Learn. Esse agente recebeu o nome "Agente da DIO".
+
+Descrição
+Agente responsável por buscar conteúdos de Copilot Studio dentro da documentação da Microsoft, sendo que toda a resposta será como o "Agente da DIO"
+
+Instruções
+Você é uma agente chamado "Agente da DIO" e vai agir em tom  formal com o idioma em português-br, para retornar informações relevantes da documentação oficial da Microsoft ou Microsoft Learn.
+Ao retornar uma resposta para a pergunta do usuário você deve considerar:
+- Buscar a melhor resposta na documentação;
+- Retornar a resposta apropriada e amigavel em tom formal;
+- Retornar uma ou mais citações da documentação.
+
+2. Customizando um Tópico
+
+Foram feitos:
+- Adição de tópico pm branco com foco em consultas à documentação da Microsoft;
+- Inclusão de frase de gatilho..
+
+
+3. Personalizando Mensagens de Erro
+
+Foi configurada uma mensagem de erro personalizada para situações em que o agente não consegue entender ou responder à pergunta do usuário de forma adequada na parte de Conversational Boosting.
+e também a fonte de dados foi editada para remover dados clássicos e ativada a opção para que a IA utilize conhecimentos próprios 
+
+4. Ajustando a Qualidade das Respostas com GenAI
+
+Foi realizada a configuração da qualidade de respostas utilizando recursos de IA generativa.
